@@ -1,0 +1,155 @@
+Package: com.and4yy.Maldivesbootlogopack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Depends: winterboard
+Filename: ./debs/com.and4yy.Maldivesbootlogopack.deb
+Size: 348668
+MD5sum: 35f5c99f7e314a7e1d21711dd39ecc94
+SHA1: dd6c41c7c49b4abe5d18f615d847d96c74feae7a
+Section: Themes
+Description: Maldives boot logo collerction!
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.and4yy.Maldivesbootlogopack/index.html
+Name: Maldives Boot logopack
+
+Package: com.and4yy.DhiraaguOld
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Filename: ./debs/com.and4yy.DhiraaguOld.deb
+Size: 10934
+MD5sum: 85ca82d227c617b824b50fcf8632f670
+SHA1: 40a3289a5d74d6960904bde424484014619aa498
+Section: Addons (Zeppelin)
+Description: Maldives Telecom operator Dhiraagu Old logo for zeppelin.
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.and4yy.DhiraaguOld/index.html
+Name: Dhiraagu Old logo
+
+Package: com.and4yy.lsdhi
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Filename: ./debs/com.and4yy.lsdhi.deb
+Size: 196208
+MD5sum: 521f22ca1ad17aad3fa20a2f5a7dfdf1
+SHA1: 4043a55ccadb768d2604470b62578170d0f2147c 
+Section: Addons (Widgets)
+Description: lockscreen clock and date in dhivehi (need to install thaana font profile available from www.anday.me)
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.and4yy.lsdhi.deb/index.html
+Name: LS Dhi
+
+Package: com.anday.tfm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Filename: ./debs/com.anday.tfm.deb
+Size: 78694
+MD5sum: db2a996c19a3987584e1dc739aff28f1
+SHA1: 3a0b2a9d23e52c70bfe4e0329d98fadaecaef3f7
+Section: Addons 
+Description: Sports club TFM logo and slogan for Lockglyph & Zeppelin. Requested & idea by @ibrahimrifau (ibko)
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.anday.tfm/index.html
+Name: TFM 
+
+Package: com.anday.premierleague16
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Filename: ./debs/com.and4yy.lockglyph-premierleague.deb
+Size: 36536
+MD5sum: 6afe03e42e7f5cbc53480f83ae7b65b8
+SHA1: 07e749c8a0f8cb5a6dc2669411a942bb1f92d150
+Section: Themes (LockGlyph)
+Description: Lockglyph - Premier League 2016 sleeve patch
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.and4yy.lockglyph-premierleague/index.html
+Name: Premier League 16
+
+Package: com.and4yy.premierleaguezeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Filename: ./debs/com.and4yy.premierleaguezeppelin.deb
+Size: 23458
+MD5sum: bdf1f62fad51396b959b4ebfff82feb4
+SHA1: 912f1064f9afba31273da2c8faff97eba0dd27ab
+Section: Addons (Zeppelin)
+Description: Premier league 2016 logo for iPhone carrier Apply with zeppelin
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.anday.premierleaguezeppelin/index.html
+Name: Premier League Zeppelin
+
+Package: com.and4yy.chelseabootlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Filename: ./debs/com.and4yy.chelseabootlogo.deb
+Size: 1735620
+MD5sum: bffdf17d716ad2b3c9e6a7126c734526
+SHA1: 2271ee1109094a09cb6c33d809889b2e4ad8d8e2
+Section: Themes
+Description: Chelsea Bootlogo theme for iPhone respring screeen, compatible with both winterbord and anemone. just for Chelsea fanes. :)
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.and4yy.chelseabootlogo/index.html
+Name: Chelsea Boot Logo
+
+Package: com.and4yy.lierpoolbootlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Filename: ./debs/com.and4yy.lierpoolbootlogo.deb
+Size: 1381894
+MD5sum: 62c6742c774e06108197f43652024fed
+SHA1: ab4c8ea7c22de92be48a970839e65d5dc88cc02f
+Section: Themes
+Description: Football club liverpool Bootlogo theme for iPhone respring screeen, compatible with both winterbord and anemone. just for Chelsea fanes. :) requested by Y-Tey
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.and4yy.liverpoolbootlogo/index.html
+Name: Liverpool Boot Logo
+
+Package: com.and4yy.Policemvbioprotect
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Filename: ./debs/com.and4yy.Policemvbioprotect.deb
+Size: 140838
+MD5sum: 328f0675a4b1c1a14a8b8e01b35ab828
+SHA1: 1e583e8b01568c1221e3376118e239c95157cb15
+Section: Themes
+Description: Maldives police service logo for bioprotect theme, compatible with both winterbord and anemone.
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.and4yy.Policemvbioprotect/index.html
+Name: Police mv Bioprotect
+
+Package: com.and4yy.dhibootlogo
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: and4yy <anday112@gmail.com>
+Filename: ./debs/com.and4yy.dhibootlogo.deb
+Size: 803510
+MD5sum: 041f4ccd56be3a8d3ece6768fc95279a
+SHA1: fe46fac9cca6d0e25554a605ff76504c44e51d78
+Section: Themes
+Description: Dhivehi boot logo with dhivehi progress bar for iPhone 6 bootscreen theme. compatible with both winterbord and anemone.
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.and4yy.dhibootlogo/index.html
+Name: Dhi Boot Logo
+
+Package: com.and4yy.ios9rebootfix
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: CODYQX4 <anday112@gmail.com>
+Filename: ./debs/com.and4yy.ios9rebootfix.deb
+Size: 982
+MD5sum: 38fd96762c428af45c159624e6e4cf26
+SHA1: 1465043d64f7a5a64c2d099a57aecfdb7a9ab240
+Section: System
+Description: Prevent random reboots at night.
+Author: and4yy <anday112@gmail.com>
+Depiction: http://repo.anday.me/depictions/com.and4yy.ios9rebootfix/index.html
+Name: iOS 9 Reboot Fix
+
